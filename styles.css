@@ -82,6 +82,38 @@ header h1 {
     min-height: 30px;
 }
 
+.test-section {
+    margin: 25px 0;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 10px;
+}
+
+.status-label {
+    color: #666;
+    font-size: 0.9em;
+    margin-bottom: 5px;
+}
+
+.timestamp {
+    color: #333;
+    font-size: 1em;
+    font-weight: 600;
+}
+
+.btn-secondary {
+    background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+}
+
+.test-result {
+    margin-top: 15px;
+    font-size: 1em;
+    color: #28a745;
+    font-weight: 600;
+    min-height: 25px;
+    transition: opacity 0.3s;
+}
+
 footer {
     margin-top: 40px;
     padding-top: 20px;
